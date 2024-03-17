@@ -10,6 +10,10 @@ Dice-App offers a convenient solution for players of Parchis, a popular board ga
 - Fairness: The app ensures random and unbiased dice outcomes, maintaining the integrity of your game.
 - User-Friendly Interface: Intuitive design for seamless navigation and effortless gameplay.
 - Customization: Adjust settings according to your preferences, such as sound effects and animation speed.
-
+  
 ## Getting Started
-To start using Dice-App, simply download it from the App Store onto your iOS device. Once installed, open the app and begin rolling virtual dice for your Parchis game.
+To get started with Dice-App, follow these steps:
+
+1. Download: Clone or download the repository from our GitHub repository.
+2. Open in Xcode: Navigate to the downloaded project directory and open the .xcodeproj file in Xcode.
+3. Run the Application: Build and run the application in Xcode on your iOS device or simulator.
